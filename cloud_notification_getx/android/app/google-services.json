@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859633128928",
+    "project_id": "cloudnotification-c02a1",
+    "storage_bucket": "cloudnotification-c02a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859633128928:android:442ff8c7c1cf2b80584785",
+        "android_client_info": {
+          "package_name": "com.cloudnotification.cloud_notification_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvzpO3XdZgb1fz9LwnIaB0YVvfvJdxck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
